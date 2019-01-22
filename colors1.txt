@@ -1,0 +1,8 @@
+white
+red
+black
+grey
+green
+purple
+pink
+gold
